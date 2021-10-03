@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/UltimateDestruction/Levels/HouseandFarmLevel.umap
+Content/UltimateDestruction/Levels/ParkingGarageLevel.umap
+*.umap
