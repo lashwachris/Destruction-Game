@@ -5,6 +5,7 @@ Starter Content Textures
 Third Person BP
 Levels
 Weapons
+Fixed scripts for Baseball and Core Weapon System
 
 What we need:
 Chaos Assets
