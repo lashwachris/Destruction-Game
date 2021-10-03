@@ -1,0 +1,14 @@
+What we have:
+Animations
+Road System
+Starter Content Textures
+Third Person BP
+Levels
+Weapons
+
+What we need:
+Chaos Assets
+Destructable Buildings
+GUI
+Menu
+Game Over and Level Complete Method
